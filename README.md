@@ -1,10 +1,9 @@
 ### Olá, eu sou o thelucasmaia 👋
 
-Português
+Português / English
 
-- 🌱 Estudando Java
-- 😄 Pronome: Ele/dele
-
+- 🌱 Estudando C
+- 🌱 Java
 
 <div align="center">
   <a href="https://github.com/thelucasmaia">
